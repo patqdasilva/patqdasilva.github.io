@@ -4,7 +4,7 @@ collection: teaching
 type: "Class Lecture"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Ohio State University"
-date: 2025-03
+date: 2025-03-21
 location: "Columbus, Ohio, United States"
 ---
 
