@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
-title_separator          : ""
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Patrick Queiroz Da Silva"
 description              : &description "Personal Research Website for Patrick Queiroz Da Silva"
 url                      : https://patqdasilva.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "pqd_headshot_square.JPG"
   name             : "Patrick Queiroz Da Silva"
   pronouns         : # example: "she/her"  
-  bio              : "MSc Student&nbsp;&nbsp;&nbsp;@ OSU CSE<br>Data Scientist @ OSU Psychiatry"
+  bio              : "MSc Student&nbsp;&nbsp;&nbsp;@ OSU CSE<br>Data Scientist&nbsp;@ OSU Psychiatry"
   location         : "United States"
   employer         : "Ohio State University"
   uri              : # URL
