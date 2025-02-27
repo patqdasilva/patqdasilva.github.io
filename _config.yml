@@ -22,10 +22,10 @@ repository               : "patqdasilva.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pqd_headshot_square.jpg"
+  avatar           : "pqd_headshot_square.JPG"
   name             : "Patrick Queiroz Da Silva"
   pronouns         : # example: "she/her"  
-  bio              : "MS in CSE @ OSU\nData Scientist for OSU Psychiatry"
+  bio              : "MS in CSE @ OSU<br>Data Scientist for OSU Psychiatry"
   location         : "Earth"
   employer         : "Ohio State University"
   uri              : # URL
