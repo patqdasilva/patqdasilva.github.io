@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Patrick Queiroz Da Silva"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Patrick Queiroz Da Silva"
 description              : &description ""
