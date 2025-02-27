@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, Ohio State University, 2025 (expected)
+* B.S. in Computational Neuroscience, Ohio State University, 2023
 
-Work experience
+Industry Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Wexner Medical Center - Data Scientist (Aug. 2023 - Present)
+  * Led code implementation for two preprints and a conference presentation
+  * Released behavioral scoring software for four neuroimaging tasks utilized across universities
+  * Designed a novel algorithm to quantify and display missing data from 3D and 4D brain images
+  * Automated a Slurm pipeline to process six terabytes of neuroimaging data
+  * Developed a sequential denoising algorithm to achieve state of the art noise removal from rs-fMRI data
+  * Supervisor: Dr. Jay Fournier
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* JP Morgan Chase and Co - Data Science Intern (June 2023 - Aug. 2023)
+  * Collaborated with four cross-functional teams to create a data flow standard to facilitate product discovery
+  * Provided direction for two agile scrum teams by prioritizing backlog and planning sprints
+  * Analyzed current technical capabilities to deliver a roadmap for explainable fraud decisioning
+  * Supervisor: Ritwik Chatterjee
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, PyTorch, HuggingFace, vLLM, Slurm (High Performance Computing), MATLAB, R
 
 Publications
 ======
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* coming soon
