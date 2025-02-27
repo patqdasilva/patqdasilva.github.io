@@ -25,8 +25,8 @@ author:
   avatar           : "pqd_headshot_square.JPG"
   name             : "Patrick Queiroz Da Silva"
   pronouns         : # example: "she/her"  
-  bio              : "MS in CSE @ OSU<br>Data Scientist for OSU Psychiatry"
-  location         : "Earth"
+  bio              : "<p>MS in CSE @ OSU<br>Data Scientist for OSU Psychiatry"
+  location         : "Earth</p>"
   employer         : "Ohio State University"
   uri              : # URL
   email            : "dasilva.30@osu.edu" 
