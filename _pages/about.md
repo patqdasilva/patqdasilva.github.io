@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-coming soon...
+coming soon... please see Publications and CV for now.
