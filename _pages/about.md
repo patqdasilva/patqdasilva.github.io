@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
 I am **PhD student** at **The Ohio State University** in the Department of Computer Science and Engineering studying Natural Language Processing. My broad goal is to apply my background in **Neuroscience** to strengthen the **scientific process** in AI research (see [AI has a Science Problem](#AI-has-a-Science-Problem)), and to bridge the gap between Language Model advances and **practical benefits for scientists** (see [Science has an AI Problem](#Science-has-an-AI-Problem)).
+
+I work with [Sachin Kumar](https://sites.google.com/view/sachinkumar) and [Andrew Perrault](https://aperrault.github.io)
 
 # AI has a Science Problem
 
