@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Ohio State University, 2025-2029 (expected)
+* Ph.D. in Computer Science, Ohio State University, 2025-present
 * M.S. in Computer Science, Ohio State University, 2024-2025
 * B.S. in Computational Neuroscience, Ohio State University, 2020-2023
 
